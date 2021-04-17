@@ -1,2 +1,2 @@
 # hello-explorer
-just my first one file
+It is just my first one file
